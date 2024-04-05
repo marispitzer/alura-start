@@ -1,9 +1,18 @@
 body{
     background-color: #578f8c;
+    color:
 }
 
+.cabeçalho{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
 
-
+.cabeçalho-lista-item{
+    display: inline-block;
+    margin: 0 18px;
+}
 .logo{
     width: 25%
 }
