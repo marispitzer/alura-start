@@ -27,4 +27,9 @@ body{
 
 .escola{
     background-image: linear-gradient( #578f8c, #a1c2c2);
+    justify-content: center;
+    align-items: center;
+}
+.escola-dive-conteudo{
+    width: 35%;
 }
