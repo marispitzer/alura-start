@@ -1,4 +1,10 @@
-body{
+ *{
+    padding: 0;
+    margin: 0;
+ }
+ 
+ 
+ body{
     background-color: #578f8c;
     color: #ffffff;
 }
@@ -32,4 +38,7 @@ body{
 }
 .escola-dive-conteudo{
     width: 35%;
+}
+.escola-titulo{
+    padding: 24px 0;
 }
